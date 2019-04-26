@@ -1,0 +1,50 @@
+div.home-body{
+    font-size: 240%;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 5em;
+    margin-bottom: 2em;
+    font-family: 仿宋;
+}
+div.register-content{
+    margin-top: 5em;
+}
+div.personal{
+    margin-top: 10em;
+}
+ul.li-description{
+    list-style: none;
+}
+div.add-expend{
+    margin-top: 5em;
+}
+div.addexpend-required{
+    font-weight: bold;
+    color: #333;
+    display: block;
+    padding: 4px 10px 0 0;
+    float: left;
+    width: 160px;
+    word-wrap: break-word;
+    line-height: 1;
+    margin-left: 2em;
+}
+div.expend-detail{
+    width: 160px;
+    font-weight: bold;
+    color: #333;
+    display: block;
+    padding: 4px 10px 0 0;
+}
+nav.paginator-expend{
+    text-align: center;
+}
+div.layout-center{
+    text-align: center;
+}
+background-color{
+    background: #fae3a1;
+}
+span.member_list{
+    margin-right: 1.2em;
+}
